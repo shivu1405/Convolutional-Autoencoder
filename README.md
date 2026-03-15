@@ -103,6 +103,7 @@ Include your model summary
 
 ### Original vs Noisy Vs Reconstructed Image
 
+![Autoencoder Output](https://raw.githubusercontent.com/shivu1405/Convolutional-Autoencoder/f5b2584eeddde100db2b856347c028cb5d343694/Screenshot%202026-03-15%20195226.png)
 Include a few sample images here.
 
 
