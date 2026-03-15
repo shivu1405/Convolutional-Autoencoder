@@ -100,6 +100,7 @@ def train(model, loader, criterion, optimizer, epochs=5):
 
 Include your model summary
 
+![Autoencoder Result](https://raw.githubusercontent.com/shivu1405/Convolutional-Autoencoder/8c925992f202b46b6d152e6f2cef8f4166163dbf/Screenshot%202026-03-15%20195211.png)
 
 ### Original vs Noisy Vs Reconstructed Image
 
