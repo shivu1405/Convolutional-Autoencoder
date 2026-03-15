@@ -110,3 +110,5 @@ Include a few sample images here.
 
 
 ## RESULT
+
+Thus, a Convolutional Autoencoder was successfully implemented using PyTorch for image denoising, and the model effectively reconstructed clean images from noisy inputs.
